@@ -10,22 +10,7 @@
         <artifactId>oss-parent</artifactId>
         <version>7</version>
     </parent>
-    <repositories>
-        <repository>
-            <id>freehep</id>
-            <name>freehep</name>
-            <url>http://java.freehep.org/maven2/</url>
-        </repository>
-        <repository>
-            <id>boundless</id>
-            <name>boundlessgeo</name>
-            <url>http://repo.boundlessgeo.com/main/</url>
-        </repository>
-        <repository>
-            <id>central</id>
-            <name>Maven Central</name>
-            <url>http://repo1.maven.org/maven2/</url>
-        </repository>
+    <repositories>        
         <repository>
             <id>ebi</id>
             <name>ebiRepo</name>
